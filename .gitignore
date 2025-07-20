@@ -1,0 +1,15 @@
+# Environment variables
+.env
+.env.local
+.env.production
+.env.staging
+
+# Other common files to ignore
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+venv/
+myenv/
+.venv/
+instance/glowgirl.db
